@@ -1,226 +1,233 @@
 {
-  "products": [
-    { "name": "SmartPhone", "price": 30, "id": 0 },
-    { "name": "Watch", "price": 20, "id": 1 },
-    { "name": "Shirt", "price": 50, "id": 2 },
-    { "name": "Pants", "price": 100, "id": 3 },
-    { "name": "Mobile", "price": 10000, "id": 4 },
-    { "name": "Speakers", "price": 2000, "id": 5 },
-    { "name": "Keyborad", "price": 800, "id": 6 },
-    { "name": "Laptop", "price": 50000, "id": 7 }
-  ],
+    "products": [
+      { "name": "SmartPhone", "price": 30, "id": 0 },
+      { "name": "Watch", "price": 20, "id": 1 },
+      { "name": "Shirt", "price": 50, "id": 2 },
+      { "name": "Pants", "price": 100, "id": 3 },
+      { "name": "Mobile", "price": 10000, "id": 4 },
+      { "name": "Speakers", "price": 2000, "id": 5 },
+      { "name": "Keyborad", "price": 800, "id": 6 },
+      { "name": "Laptop", "price": 50000, "id": 7 }
+    ],
+    
+  "women":[
+          {
+      "id": "fbd4ec77-75ce-4aaf-b762-37c67f65b975",
+      "name": "Dutoprol",
+      "img": "https://placeimg.com/640/480/animals",
+      "price": 373,
+      "size": "2XL",
+      "description": "Athscl native arteries of extremities w rest pain"
+    }, {
+      "id": "d8e2ee1a-2062-4aba-980a-8af07c18bf51",
+      "name": "Topiramate",
+      "img": "https://placeimg.com/640/480/arch",
+      "price": 974,
+      "size": "3XL",
+      "description": "Congenital deformity of spine"
+    }, {
+      "id": "4c945a5e-db93-4bf1-bed0-be75f7c57c01",
+      "name": "CARBOplatin",
+      "img": "https://placeimg.com/640/480/tech",
+      "price": 600,
+      "size": "S",
+      "description": "Disp fx of med condyle of l femr, 7thJ"
+    }, {
+      "id": "7103446a-8ac4-4aa4-bb1b-0546eaf80730",
+      "name": "Molds, Rusts and Smuts, Alternaria tenuis",
+      "img": "https://placeimg.com/640/480/tech",
+      "price": 743,
+      "size": "2XL",
+      "description": "Blister (nonthermal) of right front wall of thorax, sequela"
+    }, {
+      "id": "54910cb8-8163-4377-a078-888016ea7e25",
+      "name": "No Drip Nasal Mist",
+      "img": "https://placeimg.com/640/480/nature",
+      "price": 485,
+      "size": "2XL",
+      "description": "Pasngr in pk-up/van injured in clsn w oth mv nontraf, init"
+    }, {
+      "id": "b78f961e-4a5a-4612-a685-545e622e4ff2",
+      "name": "Potassium Chloride in Dextrose",
+      "img": "https://placeimg.com/640/480/arch",
+      "price": 938,
+      "size": "XS",
+      "description": "Other disorders of arteries and arterioles"
+    }, {
+      "id": "5cf0be90-d092-40f2-8337-126fa7406089",
+      "name": "PROFESSIONAL WHITENING SYSTEM WHITENING",
+      "img": "https://placeimg.com/640/480/tech",
+      "price": 912,
+      "size": "3XL",
+      "description": "Exposure to other inanimate mechanical forces"
+    }, {
+      "id": "70f6ab49-0e8c-43cf-a49c-76616d4a19dd",
+      "name": "Sebastian Sun Smacker SPF 24 Calypso Berry Beat",
+      "img": "https://placeimg.com/640/480/nature/sepia",
+      "price": 671,
+      "size": "XL",
+      "description": "Nondisplaced fracture of lunate, unspecified wrist"
+    }, {
+      "id": "6e17f85e-6408-4145-9549-faf03e953a3e",
+      "name": "Naproxen Sodium",
+      "img": "https://placeimg.com/640/480/arch/grayscale",
+      "price": 918,
+      "size": "XS",
+      "description": "Driver of pk-up/van inj in clsn w nonmtr veh in traf, init"
+    }, {
+      "id": "50d98aad-da24-4c3b-b85d-2dbe6e6fd550",
+      "name": "Levetiracetam",
+      "img": "https://placeimg.com/640/480/nature/sepia",
+      "price": 614,
+      "size": "3XL",
+      "description": "Otalgia, unspecified ear"
+    }, {
+      "id": "99e0621b-0da5-42ce-a8be-1ff0f0d63459",
+      "name": "https://placeimg.com/640/480/arch/sepia",
+      "img": "Pitney",
+      "price": 628,
+      "size": "M",
+      "description": "Displaced avulsion fracture of right ischium"
+    }
+   ],
+   "men":[
+       {
+      "id": "10c4a1ef-1253-409a-a76f-7f35be81a569",
+      "name": "Furosemide",
+      "img": "https://placeimg.com/640/480/any/sepia",
+      "price": 961,
+      "size": "S",
+      "description": "Inj less saphenous at lower leg level, right leg, sequela"
+    }, {
+      "id": "5cf9c2bc-f603-49fd-84ca-2e00b0568998",
+      "name": "PHYTOGENIC INFINITE POWDER FOUNDATION",
+      "img": "https://placeimg.com/640/480/arch/sepia",
+      "price": 432,
+      "size": "XL",
+      "description": "Epispadias"
+    }, {
+      "id": "fd0aecea-065a-4607-a696-0f3904761f93",
+      "name": "equaline childrens ibuprofen oral suspension",
+      "img": "https://placeimg.com/640/480/animals/sepia",
+      "price": 428,
+      "size": "S",
+      "description": "Drug/chem diabetes with stable prolif diabetic rtnop, unsp"
+    }, {
+      "id": "9de9b2e3-d4f5-4532-b9c7-ed3e0c1b05f8",
+      "name": "Amitriptyline Hydrochloride",
+      "img": "https://placeimg.com/640/480/arch/sepia",
+      "price": 823,
+      "size": "L",
+      "description": "Laceration with foreign body of unspecified ear"
+    }, {
+      "id": "fcc547b4-fdad-49d4-b931-e3381815e8b9",
+      "name": "Neutrogena Wet Skin Kids Beach and Pool Sunblock",
+      "img": "https://placeimg.com/640/480/any/grayscale",
+      "price": 730,
+      "size": "3XL",
+      "description": "Reiter's disease, unspecified elbow"
+    }, {
+      "id": "f49e6573-69e8-43c3-aac4-04b0194b310e",
+      "name": "IPKN HYDRO AND PORE BB 02 MEDIUM",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 316,
+      "size": "S",
+      "description": "Nondisp fx of lateral condyle of unsp tibia, 7thP"
+    }, {
+      "id": "781c31ed-7565-477d-9b2b-a1a1cf8f6a24",
+      "name": "Hydralazine Hydrochloride",
+      "img": "https://placeimg.com/640/480/any/grayscale",
+      "price": 806,
+      "size": "S",
+      "description": "Toxic effect of nitrogen oxides, undetermined, subs encntr"
+    }, {
+      "id": "eb51e50e-7291-49cc-85b1-78f25a670849",
+      "name": "Clonidine Hydrochloride",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 750,
+      "size": "XL",
+      "description": "Contusion of right lower leg, initial encounter"
+    }, {
+      "id": "10e37341-1d0f-4ad4-bd4c-6d778a71d4fb",
+      "name": "Castellani Paint",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 352,
+      "size": "2XL",
+      "description": "Neonatal obstruction of right nasolacrimal duct"
+    }, {
+      "id": "fdae306e-e4c1-45c2-a4cc-89f3a091e490",
+      "name": "INSTANT HAND SANITIZER",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 547,
+      "size": "M",
+      "description": "Nondisp transverse fx shaft of l tibia, 7thF"
+    }, {
+      "id": "9bd901a5-53c8-4015-be52-276d91c87c95",
+      "name": "FAMILY CARE CLOTRIMAZOLE ANTIFUNGAL",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 628,
+      "size": "XS",
+      "description": "Drug/chem diabetes w neurological comp w diabetic amyotrophy"
+    }, {
+      "id": "0b327b75-9421-400e-9b77-4ccbc9c00b3c",
+      "name": "Ketorolac Tromethamine",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 614,
+      "size": "XL",
+      "description": "Unsp physeal fracture of upper end radius, right arm, init"
+    }, {
+      "id": "d88fe09b-1405-41bc-b959-7de3680a962e",
+      "name": "Isopropyl Alcohol",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 358,
+      "size": "XL",
+      "description": "Fall in (into) bucket of water causing other injury, sequela"
+    }, {
+      "id": "3f4935e9-09ce-44c9-8bc0-519078ad49c0",
+      "name": "Temazepam",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 501,
+      "size": "S",
+      "description": "Torticollis"
+    }, {
+      "id": "a78c77ec-d51d-42e4-a698-add6a2530213",
+      "name": "Oil-Free Foaming Acne Wash",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 879,
+      "size": "XS",
+      "description": "Disp fx of proximal phalanx of unspecified great toe"
+    }, {
+      "id": "45a9f0c4-57e5-4b37-8cde-1d38198389ca",
+      "name": "Levothyroxine Sodium",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 378,
+      "size": "XS",
+      "description": "Unsp inj intrns musc/fasc/tend and unsp finger at wrs/hnd lv"
+    }, {
+      "id": "3639a476-6f3a-4e02-8a17-dcc380e3704d",
+      "name": "KETOROLAC TROMETHAMINE",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 465,
+      "size": "3XL",
+      "description": "Pulmonary interstitial glycogenosis"
+    }, {
+      "id": "1693be6e-3d76-4cfe-a627-1edd8423c24e",
+      "name": "Phytonadione",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 959,
+      "size": "XL",
+      "description": "Pathological fracture, oth site, subs for fx w routn heal"
+    }, {
+      "id": "1bae6b87-b272-4a7a-b2d8-410240a295a2",
+      "name": "Ibuprofen",
+      "img": "https://placeimg.com/640/480/tech/grayscale",
+      "price": 969,
+      "size": "M",
+      "description": "Unspecified fracture of third metacarpal bone, left hand"
+    }]
   
-"productsList":[
-        {
-    "id": "fbd4ec77-75ce-4aaf-b762-37c67f65b975",
-    "name": "Dutoprol",
-    "img": "Najera",
-    "price": 373,
-    "size": "2XL",
-    "description": "Athscl native arteries of extremities w rest pain"
-  }, {
-    "id": "d8e2ee1a-2062-4aba-980a-8af07c18bf51",
-    "name": "Topiramate",
-    "img": "Cavanagh",
-    "price": 974,
-    "size": "3XL",
-    "description": "Congenital deformity of spine"
-  }, {
-    "id": "4c945a5e-db93-4bf1-bed0-be75f7c57c01",
-    "name": "CARBOplatin",
-    "img": "Saltmarsh",
-    "price": 600,
-    "size": "S",
-    "description": "Disp fx of med condyle of l femr, 7thJ"
-  }, {
-    "id": "7103446a-8ac4-4aa4-bb1b-0546eaf80730",
-    "name": "Molds, Rusts and Smuts, Alternaria tenuis",
-    "img": "Danovich",
-    "price": 743,
-    "size": "2XL",
-    "description": "Blister (nonthermal) of right front wall of thorax, sequela"
-  }, {
-    "id": "54910cb8-8163-4377-a078-888016ea7e25",
-    "name": "No Drip Nasal Mist",
-    "img": "Gudyer",
-    "price": 485,
-    "size": "2XL",
-    "description": "Pasngr in pk-up/van injured in clsn w oth mv nontraf, init"
-  }, {
-    "id": "b78f961e-4a5a-4612-a685-545e622e4ff2",
-    "name": "Potassium Chloride in Dextrose",
-    "img": "Emsley",
-    "price": 938,
-    "size": "XS",
-    "description": "Other disorders of arteries and arterioles"
-  }, {
-    "id": "5cf0be90-d092-40f2-8337-126fa7406089",
-    "name": "PROFESSIONAL WHITENING SYSTEM WHITENING",
-    "img": "Hardaway",
-    "price": 912,
-    "size": "3XL",
-    "description": "Exposure to other inanimate mechanical forces"
-  }, {
-    "id": "70f6ab49-0e8c-43cf-a49c-76616d4a19dd",
-    "name": "Sebastian Sun Smacker SPF 24 Calypso Berry Beat",
-    "img": "Gieraths",
-    "price": 671,
-    "size": "XL",
-    "description": "Nondisplaced fracture of lunate, unspecified wrist"
-  }, {
-    "id": "6e17f85e-6408-4145-9549-faf03e953a3e",
-    "name": "Naproxen Sodium",
-    "img": "Phippin",
-    "price": 918,
-    "size": "XS",
-    "description": "Driver of pk-up/van inj in clsn w nonmtr veh in traf, init"
-  }, {
-    "id": "50d98aad-da24-4c3b-b85d-2dbe6e6fd550",
-    "name": "Levetiracetam",
-    "img": "Dormand",
-    "price": 614,
-    "size": "3XL",
-    "description": "Otalgia, unspecified ear"
-  }, {
-    "id": "99e0621b-0da5-42ce-a8be-1ff0f0d63459",
-    "name": "BIOFREEZE COLORLESS",
-    "img": "Pitney",
-    "price": 628,
-    "size": "M",
-    "description": "Displaced avulsion fracture of right ischium"
-  }, {
-    "id": "10c4a1ef-1253-409a-a76f-7f35be81a569",
-    "name": "Furosemide",
-    "img": "Lello",
-    "price": 961,
-    "size": "S",
-    "description": "Inj less saphenous at lower leg level, right leg, sequela"
-  }, {
-    "id": "5cf9c2bc-f603-49fd-84ca-2e00b0568998",
-    "name": "PHYTOGENIC INFINITE POWDER FOUNDATION",
-    "img": "Troker",
-    "price": 432,
-    "size": "XL",
-    "description": "Epispadias"
-  }, {
-    "id": "fd0aecea-065a-4607-a696-0f3904761f93",
-    "name": "equaline childrens ibuprofen oral suspension",
-    "img": "Chander",
-    "price": 428,
-    "size": "S",
-    "description": "Drug/chem diabetes with stable prolif diabetic rtnop, unsp"
-  }, {
-    "id": "9de9b2e3-d4f5-4532-b9c7-ed3e0c1b05f8",
-    "name": "Amitriptyline Hydrochloride",
-    "img": "Pichmann",
-    "price": 823,
-    "size": "L",
-    "description": "Laceration with foreign body of unspecified ear"
-  }, {
-    "id": "fcc547b4-fdad-49d4-b931-e3381815e8b9",
-    "name": "Neutrogena Wet Skin Kids Beach and Pool Sunblock",
-    "img": "Daubeny",
-    "price": 730,
-    "size": "3XL",
-    "description": "Reiter's disease, unspecified elbow"
-  }, {
-    "id": "f49e6573-69e8-43c3-aac4-04b0194b310e",
-    "name": "IPKN HYDRO AND PORE BB 02 MEDIUM",
-    "img": "Bowne",
-    "price": 316,
-    "size": "S",
-    "description": "Nondisp fx of lateral condyle of unsp tibia, 7thP"
-  }, {
-    "id": "781c31ed-7565-477d-9b2b-a1a1cf8f6a24",
-    "name": "Hydralazine Hydrochloride",
-    "img": "Redwood",
-    "price": 806,
-    "size": "S",
-    "description": "Toxic effect of nitrogen oxides, undetermined, subs encntr"
-  }, {
-    "id": "eb51e50e-7291-49cc-85b1-78f25a670849",
-    "name": "Clonidine Hydrochloride",
-    "img": "Kenset",
-    "price": 750,
-    "size": "XL",
-    "description": "Contusion of right lower leg, initial encounter"
-  }, {
-    "id": "10e37341-1d0f-4ad4-bd4c-6d778a71d4fb",
-    "name": "Castellani Paint",
-    "img": "Dorling",
-    "price": 352,
-    "size": "2XL",
-    "description": "Neonatal obstruction of right nasolacrimal duct"
-  }, {
-    "id": "fdae306e-e4c1-45c2-a4cc-89f3a091e490",
-    "name": "INSTANT HAND SANITIZER",
-    "img": "Grelak",
-    "price": 547,
-    "size": "M",
-    "description": "Nondisp transverse fx shaft of l tibia, 7thF"
-  }, {
-    "id": "9bd901a5-53c8-4015-be52-276d91c87c95",
-    "name": "FAMILY CARE CLOTRIMAZOLE ANTIFUNGAL",
-    "img": "Vlasyev",
-    "price": 628,
-    "size": "XS",
-    "description": "Drug/chem diabetes w neurological comp w diabetic amyotrophy"
-  }, {
-    "id": "0b327b75-9421-400e-9b77-4ccbc9c00b3c",
-    "name": "Ketorolac Tromethamine",
-    "img": "Thorrington",
-    "price": 614,
-    "size": "XL",
-    "description": "Unsp physeal fracture of upper end radius, right arm, init"
-  }, {
-    "id": "d88fe09b-1405-41bc-b959-7de3680a962e",
-    "name": "Isopropyl Alcohol",
-    "img": "Tsarovic",
-    "price": 358,
-    "size": "XL",
-    "description": "Fall in (into) bucket of water causing other injury, sequela"
-  }, {
-    "id": "3f4935e9-09ce-44c9-8bc0-519078ad49c0",
-    "name": "Temazepam",
-    "img": "Tieman",
-    "price": 501,
-    "size": "S",
-    "description": "Torticollis"
-  }, {
-    "id": "a78c77ec-d51d-42e4-a698-add6a2530213",
-    "name": "Oil-Free Foaming Acne Wash",
-    "img": "Blaszczyk",
-    "price": 879,
-    "size": "XS",
-    "description": "Disp fx of proximal phalanx of unspecified great toe"
-  }, {
-    "id": "45a9f0c4-57e5-4b37-8cde-1d38198389ca",
-    "name": "Levothyroxine Sodium",
-    "img": "Sandercroft",
-    "price": 378,
-    "size": "XS",
-    "description": "Unsp inj intrns musc/fasc/tend and unsp finger at wrs/hnd lv"
-  }, {
-    "id": "3639a476-6f3a-4e02-8a17-dcc380e3704d",
-    "name": "KETOROLAC TROMETHAMINE",
-    "img": "Qusklay",
-    "price": 465,
-    "size": "3XL",
-    "description": "Pulmonary interstitial glycogenosis"
-  }, {
-    "id": "1693be6e-3d76-4cfe-a627-1edd8423c24e",
-    "name": "Phytonadione",
-    "img": "Hallad",
-    "price": 959,
-    "size": "XL",
-    "description": "Pathological fracture, oth site, subs for fx w routn heal"
-  }, {
-    "id": "1bae6b87-b272-4a7a-b2d8-410240a295a2",
-    "name": "Ibuprofen",
-    "img": "Edgler",
-    "price": 969,
-    "size": "M",
-    "description": "Unspecified fracture of third metacarpal bone, left hand"
-  }]
-
-}
+  }
+  
+    
+  
+  
