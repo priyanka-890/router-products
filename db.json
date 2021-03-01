@@ -1,14 +1,155 @@
 {
-    "products": [
-      { "name": "SmartPhone", "price": 30, "id": 0 },
-      { "name": "Watch", "price": 20, "id": 1 },
-      { "name": "Shirt", "price": 50, "id": 2 },
-      { "name": "Pants", "price": 100, "id": 3 },
-      { "name": "Mobile", "price": 10000, "id": 4 },
-      { "name": "Speakers", "price": 2000, "id": 5 },
-      { "name": "Keyborad", "price": 800, "id": 6 },
-      { "name": "Laptop", "price": 50000, "id": 7 }
-    ],
+    "products": [{
+    "id": "2004f233-7b28-4d4a-a8fe-48f1cfa317fe",
+    "name": "Thoughtmix",
+    "category": "Bread - White Epi Baguette",
+    "price": 99
+  }, {
+    "id": "49988e29-8da2-4377-8f25-a65e58f2d4a1",
+    "name": "Wordtune",
+    "category": "Pastry - Butterscotch Baked",
+    "price": 91
+  }, {
+    "id": "c44074ac-19cb-4540-b565-db8718a78e68",
+    "name": "Gabcube",
+    "category": "Olives - Black, Pitted",
+    "price": 85
+  }, {
+    "id": "4d8f9344-80a1-4e97-b703-2910c4cb9c1c",
+    "name": "Fatz",
+    "category": "Pie Box - Cello Window 2.5",
+    "price": 21
+  }, {
+    "id": "601c48ad-f9e5-4793-8281-a15d5925cc46",
+    "name": "Vipe",
+    "category": "Cheese - Mozzarella",
+    "price": 64
+  }, {
+    "id": "6b5ad589-0880-47df-aa1e-415d54fd670b",
+    "name": "Zoonder",
+    "category": "Cookie Dough - Chunky",
+    "price": 88
+  }, {
+    "id": "d332adaf-a1b4-4408-821b-33fcfc989201",
+    "name": "Zazio",
+    "category": "French Pastry - Mini Chocolate",
+    "price": 46
+  }, {
+    "id": "747904c2-f19d-4fc7-a28e-605786482d8e",
+    "name": "Skippad",
+    "category": "Melon - Honey Dew",
+    "price": 14
+  }, {
+    "id": "5c051723-dce6-48a8-914f-176c57556302",
+    "name": "Vipe",
+    "category": "Madeira",
+    "price": 43
+  }, {
+    "id": "117d403d-ae62-46ec-b0d8-b12821556fa8",
+    "name": "Viva",
+    "category": "Lamb - Shoulder",
+    "price": 70
+  }, {
+    "id": "3cbfa1fd-dde1-4aae-86fc-ca26e32a93d3",
+    "name": "Zoombeat",
+    "category": "Tarragon - Primerba, Paste",
+    "price": 32
+  }, {
+    "id": "2d049c47-0444-4e05-8ccd-6caaa83926ed",
+    "name": "Edgewire",
+    "category": "Lemon Pepper",
+    "price": 20
+  }, {
+    "id": "7b83c611-d9e7-4994-854b-98c3e1c6a65d",
+    "name": "Flashpoint",
+    "category": "Wine - Clavet Saint Emilion",
+    "price": 90
+  }, {
+    "id": "6e69b79b-5dcd-4e4d-b15b-6e83aacb7fb6",
+    "name": "Zoombox",
+    "category": "Blackberries",
+    "price": 64
+  }, {
+    "id": "b01b66f4-902e-4230-b92b-102ab4a59cc8",
+    "name": "Skiba",
+    "category": "Lettuce - Radicchio",
+    "price": 87
+  }, {
+    "id": "c4c19de0-289c-4c84-8e58-428819d8a84b",
+    "name": "Rhyzio",
+    "category": "Turkey - Breast, Bone - In",
+    "price": 68
+  }, {
+    "id": "f87bf3a5-f84f-4f19-bc9c-8206667c2c58",
+    "name": "Blogtags",
+    "category": "Tart - Butter Plain Squares",
+    "price": 44
+  }, {
+    "id": "209839bc-3cd4-4209-8d07-3707f5de263e",
+    "name": "Omba",
+    "category": "Cookies - Englishbay Chochip",
+    "price": 76
+  }, {
+    "id": "5e7cf5a6-6b20-47f0-9f1d-4623d4ed4bd0",
+    "name": "Browsecat",
+    "category": "Oil - Food, Lacquer Spray",
+    "price": 34
+  }, {
+    "id": "ddd9077f-35c8-4001-b155-18641fc83969",
+    "name": "Voonyx",
+    "category": "Butter Balls Salted",
+    "price": 39
+  }, {
+    "id": "027e3bc5-09f7-4fed-8207-ece3417bc9d3",
+    "name": "Eare",
+    "category": "Coconut - Whole",
+    "price": 95
+  }, {
+    "id": "805b1a25-24ee-451e-a474-f86d64afb1f6",
+    "name": "Zooveo",
+    "category": "Sugar - Invert",
+    "price": 90
+  }, {
+    "id": "4e1ac62b-08ed-4ff5-a853-d9ab2f4ab1f1",
+    "name": "Centidel",
+    "category": "Cream - 35%",
+    "price": 85
+  }, {
+    "id": "a9b9782a-83a0-4699-8f52-c425971af5cd",
+    "name": "Eadel",
+    "category": "Mint - Fresh",
+    "price": 20
+  }, {
+    "id": "4e81c7a9-fbf4-4407-845a-cf083eab6680",
+    "name": "Mita",
+    "category": "Pineapple - Golden",
+    "price": 72
+  }, {
+    "id": "99174ca6-9334-44b6-a16e-6e349e7cd0e3",
+    "name": "Youbridge",
+    "category": "Tomatillo",
+    "price": 97
+  }, {
+    "id": "3395fc54-40cd-4714-b552-8a5fb60891f2",
+    "name": "Voonix",
+    "category": "Glucose",
+    "price": 20
+  }, {
+    "id": "cbd70bf9-9ca3-4a60-b87f-f105002936b7",
+    "name": "Jabbersphere",
+    "category": "Hersey Shakes",
+    "price": 66
+  }, {
+    "id": "9459adf5-fdbd-46fa-a448-9c8195435979",
+    "name": "Edgepulse",
+    "category": "Hersey Shakes",
+    "price": 97
+  }, {
+    "id": "b0f2cf90-5b70-425a-b458-f874cb9ddfc3",
+    "name": "Devpoint",
+    "category": "Energy Drink - Redbull 355ml",
+    "price": 61
+  }]
     
   "women":[
           {
