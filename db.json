@@ -1,162 +1,182 @@
 {"exam":[{
-    "question": "Presence of other vascular implants and grafts",
-    "option1": "Deer, roe",
-    "option2": "Capreolus capreolus",
-    "option3": "Demivee",
-    "option4": "joomla.org",
+    "question": "Wedge compression fracture of first thor vertebra, sequela",
+    "option1": "Cormorant, pied",
+    "option2": "Phalacrocorax varius",
+    "option3": "Realfire",
+    "option4": "bandcamp.com",
     "answer": 4,
-    "description": "Supplement Left Axilla with Nonautologous Tissue Substitute, Open Approach"
+    "description": "Computerized Tomography (CT Scan) of Left Toe(s)",
+    "id": "a5278420-9379-4845-8df7-1f15e1d80a64"
   }, {
-    "question": "Colles' fx r radius, subs for opn fx type I/2 w nonunion",
-    "option1": "Bottle-nose dolphin",
-    "option2": "Tursiops truncatus",
-    "option3": "Twinder",
-    "option4": "blogs.com",
+    "question": "Sltr-haris Type I physl fx upr end humer, r arm, 7thG",
+    "option1": "Musk ox",
+    "option2": "Ovibos moschatus",
+    "option3": "Meetz",
+    "option4": "utexas.edu",
     "answer": 1,
-    "description": "Drainage of Left Femoral Vein with Drainage Device, Percutaneous Endoscopic Approach"
+    "description": "Excision of Left Upper Arm Muscle, Percutaneous Approach",
+    "id": "fe833bb7-3068-4cc3-81c0-a5d267a3fd55"
   }, {
-    "question": "Ehrlichiosis chafeensis [E. chafeensis]",
-    "option1": "Grant's gazelle",
-    "option2": "Gazella granti",
-    "option3": "Quinu",
-    "option4": "spotify.com",
-    "answer": 4,
-    "description": "Low Dose Rate (LDR) Brachytherapy of Diaphragm using Iodine 125 (I-125)"
-  }, {
-    "question": "Acute peptic ulcer, site unspecified, with hemorrhage",
-    "option1": "Capuchin, white-fronted",
-    "option2": "Cebus albifrons",
-    "option3": "Topicblab",
-    "option4": "furl.net",
-    "answer": 2,
-    "description": "Excision of Right Fibula, Percutaneous Endoscopic Approach"
-  }, {
-    "question": "Lacerat extn/abdr musc/fasc/tend of r thm at forarm lv, sqla",
-    "option1": "Mountain lion",
-    "option2": "Felis concolor",
-    "option3": "Roombo",
-    "option4": "arstechnica.com",
-    "answer": 2,
-    "description": "Dilation of Right Popliteal Artery using Drug-Coated Balloon, Open Approach"
-  }, {
-    "question": "Malignant melanoma of upper limb, including shoulder",
-    "option1": "Red sheep",
-    "option2": "Ovis ammon",
-    "option3": "Dabfeed",
-    "option4": "icq.com",
-    "answer": 4,
-    "description": "Insertion of Cardiac Lead into Pericardium, Percutaneous Approach"
-  }, {
-    "question": "Oth psychoactive substance abuse w sexual dysfunction",
-    "option1": "Wallaby, agile",
-    "option2": "Macropus agilis",
-    "option3": "Vidoo",
-    "option4": "bbb.org",
+    "question": "Nondisp subtrochnt fx unsp femr, init for opn fx type 3A/B/C",
+    "option1": "Yellow-bellied marmot",
+    "option2": "Marmota flaviventris",
+    "option3": "Npath",
+    "option4": "vistaprint.com",
     "answer": 3,
-    "description": "Revision of Infusion Pump in Lower Extremity Subcutaneous Tissue and Fascia, Percutaneous Approach"
+    "description": "Beam Radiation of Sinuses using Neutrons",
+    "id": "e1aeba4b-ee51-4e3a-b6d0-08c9c3bfc0df"
   }, {
-    "question": "Complete oblique atypical femoral fracture, left leg, init",
-    "option1": "Horned lark",
-    "option2": "Eremophila alpestris",
-    "option3": "Voonix",
-    "option4": "princeton.edu",
+    "question": "External constriction of right elbow, sequela",
+    "option1": "Black-capped chickadee",
+    "option2": "Parus atricapillus",
+    "option3": "Realblab",
+    "option4": "ifeng.com",
+    "answer": 4,
+    "description": "Removal of Intraluminal Device from Upper Intestinal Tract, Via Natural or Artificial Opening Endoscopic",
+    "id": "85eaf82f-8592-41eb-adbd-402084cb7271"
+  }, {
+    "question": "Corrosion of third degree of unspecified ear",
+    "option1": "Tern, arctic",
+    "option2": "Sterna paradisaea",
+    "option3": "Thoughtbridge",
+    "option4": "wikia.com",
     "answer": 1,
-    "description": "Revision of Nonautologous Tissue Substitute in Right Metatarsal-Tarsal Joint, Open Approach"
+    "description": "Revision of Autologous Tissue Substitute in Left Carpal, Percutaneous Endoscopic Approach",
+    "id": "89411288-a236-4f93-a466-a0a4718aa9b5"
   }, {
-    "question": "Acute delta-(super) infection of hepatitis B carrier",
-    "option1": "Gecko, tokay",
-    "option2": "Gekko gecko",
-    "option3": "Oloo",
-    "option4": "purevolume.com",
-    "answer": 2,
-    "description": "Drainage of Left Foot, Open Approach, Diagnostic"
-  }, {
-    "question": "Poisn by keratolyt/keratplst/hair trmt drug, assault, subs",
-    "option1": "Pine snake (unidentified)",
-    "option2": "Pituophis melanaleucus",
-    "option3": "Brightdog",
-    "option4": "ox.ac.uk",
-    "answer": 3,
-    "description": "Reposition Left Zygomatic Bone, External Approach"
-  }, {
-    "question": "Laceration without foreign body of unspecified wrist",
-    "option1": "Squirrel, eastern fox",
-    "option2": "Sciurus niger",
-    "option3": "Twinder",
-    "option4": "wired.com",
-    "answer": 3,
-    "description": "Excision of Spleen, Open Approach, Diagnostic"
-  }, {
-    "question": "Sprain of metacarpophalangeal joint of right thumb, subs",
-    "option1": "Coyote",
-    "option2": "Canis latrans",
-    "option3": "Skynoodle",
-    "option4": "samsung.com",
-    "answer": 3,
-    "description": "Inspection of Abdominal Wall, External Approach"
-  }, {
-    "question": "Breakdown (mechanical) of graft of urinary organ, sequela",
-    "option1": "Wapiti, elk,",
-    "option2": "Cervus canadensis",
-    "option3": "Divanoodle",
-    "option4": "issuu.com",
+    "question": "Anterior cord syndrome at T2-T6, subs",
+    "option1": "Lemur, ring-tailed",
+    "option2": "Lemur catta",
+    "option3": "Zoovu",
+    "option4": "odnoklassniki.ru",
     "answer": 4,
-    "description": "Computerized Tomography (CT Scan) of Prostate using Low Osmolar Contrast"
+    "description": "Revision of Drainage Device in Scrotum and Tunica Vaginalis, Open Approach",
+    "id": "3a9e77e6-1ebd-4606-9055-370166883f1e"
   }, {
-    "question": "Hyp hrt & chr kdny dis w hrt fail and stg 1-4/unsp chr kdny",
-    "option1": "White-fronted capuchin",
-    "option2": "Cebus albifrons",
-    "option3": "Cogidoo",
-    "option4": "un.org",
+    "question": "Dislocation of MCP joint of right thumb, sequela",
+    "option1": "Roseat flamingo",
+    "option2": "Phoenicopterus ruber",
+    "option3": "Rhyzio",
+    "option4": "sitemeter.com",
     "answer": 2,
-    "description": "Plain Radiography of Left Knee"
+    "description": "Insertion of Spacer into Right Temporomandibular Joint, Percutaneous Endoscopic Approach",
+    "id": "b6609b0e-c80f-476b-84a1-41cda8a00397"
   }, {
-    "question": "Corros third deg of unsp site r low limb, ex ank/ft, init",
-    "option1": "Hoffman's sloth",
-    "option2": "Choloepus hoffmani",
-    "option3": "Oyonder",
-    "option4": "slate.com",
-    "answer": 3,
-    "description": "Removal of Intraluminal Device from Trachea, Open Approach"
-  }, {
-    "question": "Unsp malignant neoplasm skin/ left upper limb, inc shoulder",
-    "option1": "Insect, stick",
-    "option2": "Leprocaulinus vipera",
-    "option3": "Kwideo",
-    "option4": "w3.org",
-    "answer": 3,
-    "description": "Revision of Synthetic Substitute in Left Shoulder Joint, Open Approach"
-  }, {
-    "question": "Displ commnt fx shaft of l tibia, 7thN",
-    "option1": "Eagle, tawny",
-    "option2": "Anitibyx armatus",
-    "option3": "Browsedrive",
-    "option4": "fotki.com",
-    "answer": 1,
-    "description": "Bypass Right Common Iliac Artery to Celiac Artery with Autologous Arterial Tissue, Open Approach"
-  }, {
-    "question": "Burn of first degree of right toe(s) (nail)",
-    "option1": "Mexican beaded lizard",
-    "option2": "Heloderma horridum",
-    "option3": "Blognation",
-    "option4": "gov.uk",
-    "answer": 2,
-    "description": "Revision of Diaphragmatic Pacemaker Lead in Diaphragm, Via Natural or Artificial Opening Endoscopic"
-  }, {
-    "question": "Other specified urinary incontinence",
-    "option1": "Sloth, two-toed tree",
-    "option2": "Choloepus hoffmani",
-    "option3": "Ailane",
-    "option4": "miibeian.gov.cn",
-    "answer": 3,
-    "description": "Tomographic (Tomo) Nuclear Medicine Imaging of Brain using Other Radionuclide"
-  }, {
-    "question": "Diab with diabetic macular edema, resolved fol trtmt, r eye",
-    "option1": "Pied avocet",
-    "option2": "Recurvirostra avosetta",
-    "option3": "Buzzdog",
+    "question": "Inj long flexor musc/fasc/tend thumb at wrist and hand level",
+    "option1": "Openbill stork",
+    "option2": "Anastomus oscitans",
+    "option3": "Katz",
     "option4": "com.com",
+    "answer": 2,
+    "description": "Magnetic Resonance Imaging (MRI) of Right Breast using Other Contrast",
+    "id": "8ac62d67-e119-4b6b-af77-4daca87b404e"
+  }, {
+    "question": "Contact with hot water in bath or tub, initial encounter",
+    "option1": "Native cat",
+    "option2": "Dasyurus viverrinus",
+    "option3": "Topicshots",
+    "option4": "vimeo.com",
+    "answer": 4,
+    "description": "Fluoroscopy of Right Knee using Low Osmolar Contrast",
+    "id": "f07c71ac-4731-4756-ad65-33fd0fe1e3eb"
+  }, {
+    "question": "Contact with hot food, sequela",
+    "option1": "Spoonbill, european",
+    "option2": "Platalea leucordia",
+    "option3": "Demizz",
+    "option4": "joomla.org",
     "answer": 1,
-    "description": "Drainage of Right Lower Lung Lobe with Drainage Device, Open Approach"
+    "description": "Destruction of Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach",
+    "id": "367854c9-3936-4285-a02d-acc86b9b00ef"
+  }, {
+    "question": "Anaplastic large cell lymphoma, ALK-neg, intrathorac nodes",
+    "option1": "American Virginia opossum",
+    "option2": "Didelphis virginiana",
+    "option3": "Edgepulse",
+    "option4": "ihg.com",
+    "answer": 2,
+    "description": "Compression of Face using Intermittent Pressure Device",
+    "id": "d8b2a658-cbfc-4a72-aa67-7d7f22078263"
+  }, {
+    "question": "Oth fx shaft of rad, left arm, subs for clos fx w malunion",
+    "option1": "Currasow (unidentified)",
+    "option2": "Crax sp.",
+    "option3": "Browsetype",
+    "option4": "netlog.com",
+    "answer": 3,
+    "description": "Insertion of Spacer into Thoracic Vertebral Joint, Percutaneous Endoscopic Approach",
+    "id": "e3a68ab7-f6f0-4568-abd7-b6a5ef64852e"
+  }, {
+    "question": "Complete physeal arrest, right proximal tibia",
+    "option1": "Sociable weaver",
+    "option2": "Philetairus socius",
+    "option3": "Abata",
+    "option4": "live.com",
+    "answer": 1,
+    "description": "Removal of Implantable Heart Assist System from Heart, Open Approach",
+    "id": "fd2e0d07-e409-4510-8338-dc6381a24756"
+  }, {
+    "question": "Charcot's joint, unspecified hand",
+    "option1": "Ibex",
+    "option2": "Capra ibex",
+    "option3": "Wikibox",
+    "option4": "fda.gov",
+    "answer": 1,
+    "description": "Reposition Right Radial Artery, Percutaneous Approach",
+    "id": "65c96ba0-00c5-4e2f-ba6a-170a372f8dac"
+  }, {
+    "question": "Periodontal disease, unspecified",
+    "option1": "Squirrel, pine",
+    "option2": "Tamiasciurus hudsonicus",
+    "option3": "Camido",
+    "option4": "comcast.net",
+    "answer": 3,
+    "description": "Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Fluorine 18 (F-18)",
+    "id": "ba5d6395-0426-4131-a1ab-b540da3d8383"
+  }, {
+    "question": "Nondisp seg fx shaft of r fibula, 7thG",
+    "option1": "Black-fronted bulbul",
+    "option2": "Pycnonotus nigricans",
+    "option3": "Jabberbean",
+    "option4": "stumbleupon.com",
+    "answer": 3,
+    "description": "Fluoroscopy of Bilateral Upper Extremity Veins using Low Osmolar Contrast",
+    "id": "c45da4fa-2339-423c-91df-91c5920e5f37"
+  }, {
+    "question": "Sequelae of protein-calorie malnutrition",
+    "option1": "Lourie, grey",
+    "option2": "Lorythaixoides concolor",
+    "option3": "Zoombox",
+    "option4": "fda.gov",
+    "answer": 3,
+    "description": "Removal of Intraluminal Device from Kidney, External Approach",
+    "id": "ab10c276-ff46-41e0-9e9a-4ccde6344f05"
+  }, {
+    "question": "Disp fx of dist phalanx of l mid fngr, 7thG",
+    "option1": "Fowl, helmeted guinea",
+    "option2": "Numida meleagris",
+    "option3": "Agivu",
+    "option4": "mayoclinic.com",
+    "answer": 3,
+    "description": "Bypass Left Lacrimal Duct to Nasal Cavity, Percutaneous Approach",
+    "id": "c0454fd0-069d-404c-a199-923cc9781a3c"
+  }, {
+    "question": "Oth fx unsp low leg, 7thJ",
+    "option1": "Capybara",
+    "option2": "Hydrochoerus hydrochaeris",
+    "option3": "Yodel",
+    "option4": "artisteer.com",
+    "answer": 3,
+    "description": "Destruction of Bilateral Fallopian Tubes, Open Approach",
+    "id": "087af045-b8c1-4946-8234-b35bee6e9473"
+  }, {
+    "question": "Displaced transverse fracture of left patella",
+    "option1": "Lion, asian",
+    "option2": "Panthera leo persica",
+    "option3": "Thoughtworks",
+    "option4": "1und1.de",
+    "answer": 1,
+    "description": "Removal of Drainage Device from Left Shoulder Joint, External Approach",
+    "id": "8d829141-8375-485d-8ad7-4aa15da40cd7"
   }]
 }
